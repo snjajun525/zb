@@ -82,7 +82,6 @@ CCTV4-中文国际美洲,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cablet
 北京纪实科教,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000332/index.m3u8
 动漫秀场,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00002000/index.m3u8
 金色学堂,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00002018/index.m3u8
-魅力足球,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00002021/index.m3u8
 生活时尚,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00002019/index.m3u8
 都市剧场,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00002022/index.m3u8
 乐游,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00002016/index.m3u8
@@ -102,7 +101,6 @@ CCTV4-中文国际美洲,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cablet
 四海钓鱼,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000640/index.m3u8
 环球旅游,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000643/index.m3u8
 优优宝贝,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000641/index.m3u8
-车迷,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000645/index.m3u8
 中华特产,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000642/index.m3u8
 快乐购物,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000709/index.m3u8
 汽摩频道,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000711/index.m3u8
